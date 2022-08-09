@@ -26,7 +26,7 @@ amazonclassname.click()
 time.sleep(10)
 driver.quit()
 
-##Made by fkohut13
+##Made by fkohut13.
 
 
 
